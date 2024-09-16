@@ -1,0 +1,18 @@
+main.css
+
+line 3079 changes colour of header bar
+line 3284 changes colour of menu pop up
+
+
+wrapper.spotlight !!!!!
+line 3770 and below for changing "about me" (wrapper.spotlight.style2)
+line 3834 and below to change "my research"
+line 3850 and below to change "science communication"
+and so on...
+
+
+
+line 3634 changes colour of triangles above and below "blog" section -> inside url(), see "style='fill:COLOUR'"
+lines 3638 & 3642 change colour of horizontal lines that limit "blog" section
+
+
